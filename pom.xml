@@ -12,7 +12,7 @@
 	<artifactId>restapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Spring REST API</name>
-	<description>An API made with Spring following the REST Pattern.</description>
+	<description>A Web-API made with Spring following the REST Pattern.</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
